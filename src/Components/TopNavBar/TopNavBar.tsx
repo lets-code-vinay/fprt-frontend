@@ -13,7 +13,7 @@ const TopNavBar = () =>{
                             <Link to="/homepage">
                                 <img src={Images.Logo} alt="Logo" />  
                             </Link>
-                                <h4>ScrapiKo</h4>
+                                <h4>ImagiNario</h4>
                         </div>
                     </div>
                     <div className="col-lg-9 topCol9">
